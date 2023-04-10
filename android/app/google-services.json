@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "342493871296",
+    "project_id": "akademi-9631c",
+    "storage_bucket": "akademi-9631c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342493871296:android:2d7aac422449702cdb8125",
+        "android_client_info": {
+          "package_name": "com.example.appjam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342493871296-g38kdu3e6in3evitj6cr97s3tt9vaema.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLFA8lfeJjedzQB1gNqFfZl4TePtEGgzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342493871296-g38kdu3e6in3evitj6cr97s3tt9vaema.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342493871296-48b4qtkqrm5vb7e2qeue8rl2j0pekn0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appjam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

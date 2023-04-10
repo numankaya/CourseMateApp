@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342493871296-48b4qtkqrm5vb7e2qeue8rl2j0pekn0c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342493871296-48b4qtkqrm5vb7e2qeue8rl2j0pekn0c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBG-JJb7fDj690NMxBjvQX6SQ3LiSzC5oE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342493871296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appjam</string>
+	<key>PROJECT_ID</key>
+	<string>akademi-9631c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>akademi-9631c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342493871296:ios:ac14999d39f526c8db8125</string>
+</dict>
+</plist>
