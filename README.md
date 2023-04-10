@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/766922346929192990/1094861679940075643/img1.png?width=373&height=670" alt="Size Limit CLI" width="738">
+  <img src="https://media.discordapp.net/attachments/766922346929192990/1094861679940075643/img1.png?width=373&height=670" alt="Size Limit CLI" width="300">
 </p>
